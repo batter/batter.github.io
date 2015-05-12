@@ -1,0 +1,11 @@
+# Site settings
+title: Ben Atkins
+description: > # this means to ignore newlines until "baseurl:"
+  Personal blog and web site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://batkins.net" # the base hostname & protocol for your site
+twitter_username: mcbatkins
+github_username:  batter
+
+# Build settings
+markdown: kramdown
